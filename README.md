@@ -15,4 +15,11 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/alexandre-tonin-4b8b2b234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-tonin-mota-rico-4b8b2b234" height="30" width="40" /></a>
 </p>
+<br>
+
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandretonin&show_icons=true&theme=dark)  
+
+</div>
 
