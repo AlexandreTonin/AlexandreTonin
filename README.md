@@ -3,7 +3,8 @@
 <br>
 <p align="justify">Olá, meu nome é Alexandre, sou estudante de graduação em <i>Engenharia de Software</i>. Eu gosto de estudar novas tecnologias, principalmente as relacionadas a desenvolvimento <i> Front-end</i>, mas também tento estudar desenvolvimento <i>Back-end</i> para construir projetos fullstack.</p>
 
-<kbd>🌱 Atualmente estudando desenvolvimento web fullstack e Engenharia de Software</kbd> <br>
+<kbd>🌱 Atualmente estudando desenvolvimento web fullstack e Engenharia de Software</kbd> 
+<br>
 <kbd>🔭 Atualmente trabalhando como Auxiliar de Sistemas na Unimed Noroeste RS, desenvolvendo projetos pessoais e criando minha própria empresa </kbd>
 
 <br>
