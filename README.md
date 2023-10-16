@@ -1,6 +1,7 @@
 ## Olá me chamo Alexandre Tonin, sou dev front-end, estudante da área de tecnologia e graduando em Engenharia de Software - 4º semestre!
 
 <kbd>🌱 Atualmente estudando desenvolvimento web fullstack e Engenharia de Software</kbd>
+
 <br>
 <kbd>🔭 Atualmente trabalhando como Auxiliar de Sistemas na Unimed Noroeste RS, desenvolvendo projetos pessoais e criando minha própria empresa </kbd>
 
