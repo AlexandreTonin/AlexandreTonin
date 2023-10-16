@@ -1,10 +1,10 @@
 ## Olá me chamo Alexandre Tonin, sou dev front-end, estudante da área de tecnologia e graduando em Engenharia de Software - 4º semestre!
 
 <kbd>🌱 Atualmente estudando desenvolvimento web fullstack e Engenharia de Software</kbd>
-
-<br>
+<p></p>
 <kbd>🔭 Atualmente trabalhando como Auxiliar de Sistemas na Unimed Noroeste RS, desenvolvendo projetos pessoais e criando minha própria empresa </kbd>
 
+<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandretonin\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretonin&hide_progress=true)
