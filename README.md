@@ -1,4 +1,4 @@
-## Olá me chamo Alexandre Tonin, sou dev front-end, estudante da área de tecnologia e graduando em Engenharia de Software - 4º semestre!
+## Olá me chamo Alexandre Tonin, sou dev fullstack, estudante da área de tecnologia e graduando em Engenharia de Software - 5º semestre!
 
 <kbd>🌱 Atualmente estudando desenvolvimento web fullstack e Engenharia de Software</kbd>
 <p></p>
