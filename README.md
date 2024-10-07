@@ -27,11 +27,11 @@ Sou Desenvolvedor Web FullStack, atualmente cursando Engenharia de Software (6º
   
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,nextjs,nodejs,npm,vite,jest&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,nextjs,nodejs,npm,vite,jest,figma&theme=dark)](https://skillicons.dev)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,linux,docker,aws,git,figma,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,linux,docker,aws,git,postman&theme=dark)](https://skillicons.dev)
 
 <hr>
 
