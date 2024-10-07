@@ -6,7 +6,7 @@ Sou Desenvolvedor Web FullStack, atualmente cursando Engenharia de Software (6º
 
 <hr>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Atualmente estudando JS, TS, backend com NodeJs, frontend com React, Arquitetura, Banco de Dados Relacionais (Oracle PL/SQL / MySQL) e Modelagem de projetos de Software.</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Atualmente estudando backend com NodeJs, frontend com React, Arquitetura de software, Banco de Dados Relacionais (Oracle PL/SQL / MySQL) e Modelagem de projetos de Software.</p>
 <br>
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Atualmente trabalhando como Assistente de Sistemas na empresa Unimed e desenvolvendo projetos pessoais e profissionais</p>
 
