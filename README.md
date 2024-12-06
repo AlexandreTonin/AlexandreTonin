@@ -42,7 +42,3 @@ Sou Desenvolvedor Web FullStack, atualmente cursando Engenharia de Software (6º
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandreTonin&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreTonin&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=770&lines=%23opensource+%23inova%C3%A7%C3%A3o+%23tecnologia+%23desenvolvimento+%23criatividade)](https://git.io/typing-svg)
