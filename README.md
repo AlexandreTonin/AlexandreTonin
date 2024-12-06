@@ -31,7 +31,7 @@ Sou Desenvolvedor Web FullStack, atualmente cursando Engenharia de Software (6º
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,linux,docker,aws,git,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,linux,docker,aws,git,postman,kafka&theme=dark)](https://skillicons.dev)
 
 <hr>
 
