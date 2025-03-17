@@ -8,7 +8,7 @@ Sou Desenvolvedor Web FullStack, atualmente cursando Engenharia de Software (7º
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Atualmente estudando backend com Node.Js, frontend com React, Arquitetura e Design Patterns, Banco de Dados Relacionais (PostgreSQL e MySQL) e Modelagem de projetos de Software.</p>
 <br>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Atualmente trabalhando como Estagiário de Desenvolvimento de Software na empresa COMPASS UOL e desenvolvendo projetos pessoais</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Atualmente trabalhando como Estagiário de Desenvolvimento de Software na empresa Compass UOL e desenvolvendo projetos pessoais</p>
 
 <hr>
 
