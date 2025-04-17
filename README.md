@@ -23,7 +23,7 @@ Sou Desenvolvedor Web FullStack, atualmente cursando Engenharia de Software (7º
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tecnologias e Ferramentas
 <br>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,py,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php&theme=dark)](https://skillicons.dev)
   
 <br>
 
