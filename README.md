@@ -2,17 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+Estudante+de+Engenharia+de+Software;%F0%9F%8C%90+Desenvolvedor+Web+Fullstack)](https://git.io/typing-svg)
 
-Sou Desenvolvedor Web FullStack, atualmente cursando Engenharia de Software (8º Semestre) na Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUÍ). Buscando constantemente aprimorar minhas habilidades e desenvolvendo projetos, nos quais aplico conhecimentos de Back-end, Front-end e Arquitetura. Adoro estudar diversos temas e assuntos da área de tecnologia para entender como as coisas funcionam.
+Sou Desenvolvedor FullStack, atualmente cursando Engenharia de Software (8º Semestre) na Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUÍ). Buscando constantemente aprimorar minhas habilidades e desenvolvendo projetos, nos quais aplico conhecimentos de Back-end, Front-end e Arquitetura. Adoro estudar diversos temas e assuntos da área de tecnologia para entender como as coisas funcionam.
 
 <hr>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Atualmente estudando backend com Node.Js, frontend com React, Arquitetura e Design Patterns, Banco de Dados Relacionais (PostgreSQL e MySQL) e Modelagem de projetos de Software.</p>
-<br>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Atualmente trabalhando como Estagiário de Desenvolvimento de Software na empresa Compass UOL e desenvolvendo projetos pessoais</p>
-
-<hr>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Fique a vontade para entrar em contato
 <div> 
   <a href="https://www.linkedin.com/in/alexandre-tonin-4b8b2b234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:xandetonin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
