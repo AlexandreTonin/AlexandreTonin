@@ -1,6 +1,6 @@
 # Olá! Me chamo Alexandre Tonin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+Estudante+de+Engenharia+de+Software;%F0%9F%8C%90+Desenvolvedor+Web+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+Estudante+de+Engenharia+de+Software;%F0%9F%8C%90+Desenvolvedor+Fullstack)](https://git.io/typing-svg)
 
 Sou Desenvolvedor FullStack, atualmente cursando Engenharia de Software (8º Semestre) na Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUÍ). Buscando constantemente aprimorar minhas habilidades e desenvolvendo projetos, nos quais aplico conhecimentos de Back-end, Front-end e Arquitetura. Adoro estudar diversos temas e assuntos da área de tecnologia para entender como as coisas funcionam.
 
